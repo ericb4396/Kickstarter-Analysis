@@ -15,7 +15,7 @@ From the chart provided in this repository, named Theater Outcomes vs Launch Dat
 
 From the chart provided in this repository, named Outcomes vs Goals, we can see and gather how much funding will be needed in order for your play to run successfully.
 
-###Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
 
 Most of the difficulties I faced was in the syntax of the formulas. During a study group we all went over where our formulas were having errors and sorted out what we all needed to do in order to get the correct data. Another thing that we used was double checking with our filters on the data to prove that the formula was correct.
 
